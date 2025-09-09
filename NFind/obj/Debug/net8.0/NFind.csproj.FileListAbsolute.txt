@@ -1,0 +1,14 @@
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\bin\Debug\net8.0\nfind.exe
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\bin\Debug\net8.0\nfind.deps.json
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\bin\Debug\net8.0\nfind.runtimeconfig.json
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\bin\Debug\net8.0\nfind.dll
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\bin\Debug\net8.0\nfind.pdb
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\NFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfoInputs.cache
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfo.cs
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\NFind.csproj.CoreCompileInputs.cache
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\nfind.dll
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\refint\nfind.dll
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\nfind.pdb
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\NFind.genruntimeconfig.cache
+D:\du.lieu\Sem-pre\cSharp\Code-thayNam\Session05-Project\NCommands\NFind\obj\Debug\net8.0\ref\nfind.dll

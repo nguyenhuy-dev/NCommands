@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NFind": {
+      "commandName": "Project",
+      "commandLineArgs": "Love shakespeare-midsummer-16.txt /c"
+    }
+  }
+}
